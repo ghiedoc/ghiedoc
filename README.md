@@ -1,5 +1,5 @@
 ## 👧About Me
-* Gillian Joanna Doctor
+* **Gillian Joanna Doctor
 <p align="center">
   <a href="mailto:ghiedoc@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
@@ -18,4 +18,4 @@
 
 ## 🤍Interests
 * Learning new skills and improving my current skills
-* Listening to music
+* Listening to music and recommending songs according to your mood 🙂
