@@ -4,7 +4,7 @@
   <a href="mailto:ghiedoc@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="www.linkedin.com/in/gillian-doctor">
+  <a href="https://www.linkedin.com/in/gillian-doctor">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linked In">
   </a>
   <a href="https://open.spotify.com/user/ghiedoc?si=b279fc267614447c">
