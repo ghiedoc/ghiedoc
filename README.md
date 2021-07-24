@@ -19,8 +19,9 @@
 ## 🤍Interests
 * Learning new skills and improving my current skills
 * Listening to music and recommending songs according to your mood 🙂
+* I am currently interested in UI/UX design and front-end
 
-## 🛠️ Languages, Frameworks, Tools
+## ✨Languages, Frameworks, Tools
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
