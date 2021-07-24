@@ -2,7 +2,7 @@
 * Gillian Joanna Doctor
 
 <p align="center">
-  <a href="">
+  <a href="www.linkedin.com/in/gillian-doctor">
     LinkedIn<br/>
   </a>
 </p>
@@ -16,4 +16,3 @@
 
 ## 📧Contact
 * ghiedoc@gmail.com
-* www.linkedin.com/in/gillian-doctor
