@@ -2,8 +2,8 @@
 * Gillian Joanna Doctor
 
 <p align="center">
-  <a href="ghiedoc@gmail.com">
-    <img src="https://image.flaticon.com/icons/png/512/281/281769.png" alt="Gmail Icon"/>
+  <a href="">
+    LinkedIn<br/>
   </a>
 </p>
 
