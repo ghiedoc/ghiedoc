@@ -36,5 +36,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma">
 </p>
 
-![Gillian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghiedoc&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghiedoc&layout=compact)](https://github.com/ghiedoc/github-readme-stats)
+
 
