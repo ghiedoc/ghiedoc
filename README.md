@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma">
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={ghiedoc}&theme=blue-green" alt="stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={@ghiedoc}&theme=blue-green" alt="stats">
 
 
 
