@@ -19,7 +19,7 @@
 ## 🤍Interests
 * Learning new skills and improving my current skills
 * Listening to music and recommending songs according to your mood 🙂
-* I am currently interested in UI/UX design and front-end
+* I am currently interested in UI/UX design, front-end, software testing, and cybersecurity
 
 ## ✨Languages, Frameworks, Tools
 <p align="left">
