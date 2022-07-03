@@ -14,7 +14,7 @@
 
 ## 🎒Education
 * National University - Manila, Philippines
-  * Bachelor of Science in Information Technology Major in Mobile Web Applications | 2018 - Present
+  * Bachelor of Science in Information Technology Major in Mobile Web Applications | 2018 - 2022
 
 ## 🤍Interests
 * Learning new skills and improving my current skills
