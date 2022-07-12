@@ -29,7 +29,7 @@
 * Creating a lot of playlist for different moods because why not I love it
 * Thinking random projects that I can make
 * Spending time reading in Reddit, Medium, Dev.io, and Twitter
-* Collecting TWICE photocards cause it brings sparks ✨
+* Collecting TWICE photocards cause it bring sparks ✨
 
 ## ✨Languages, Frameworks, Tools
 <p align="left">
