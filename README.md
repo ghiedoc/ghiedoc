@@ -16,9 +16,9 @@
 * National University - Manila, Philippines
   * Bachelor of Science in Information Technology Major in Mobile Web Applications | 2018 - 2022
 
-## 🚀Interships
-* Cyber Threat OPS Intern
-* Infrastructure Service OPS Intern
+## 🚀Internships
+* Cyber Threat OPS Intern | 2021 - 2022
+* Infrastructure Service OPS Intern | 2022
 
 ## ❤️Interests
 * Learning new skills and improving my current skills
