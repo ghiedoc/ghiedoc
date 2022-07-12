@@ -16,11 +16,20 @@
 * National University - Manila, Philippines
   * Bachelor of Science in Information Technology Major in Mobile Web Applications | 2018 - 2022
 
-## 🤍Interests
+## 🚀Interships
+* Cyber Threat OPS Intern
+* Infrastructure Service OPS Intern
+
+## ❤️Interests
 * Learning new skills and improving my current skills
 * Listening to music and recommending songs according to your mood 🙂
 * I am currently interested in UI/UX design, front-end, software testing, and cybersecurity
 * Interested in learning AWS
+* Kpop fan, TWICE forever, mostly gg stan
+* Creating a lot of playlist for different moods because why not I love it
+* Thinking random projects that I can make
+* Spending time reading in Reddit, Medium, Dev.io, and Twitter
+* Collecting TWICE photocards cause it brings sparks ✨
 
 ## ✨Languages, Frameworks, Tools
 <p align="left">
